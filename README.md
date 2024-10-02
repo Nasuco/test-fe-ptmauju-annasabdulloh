@@ -13,7 +13,7 @@ cd test-fe-ptmauju-annasabdulloh
 ```bash
 npm install
 ```
-3. Jalankan aplikasi
+## Jalankan aplikasi
 ```bash
 npm start
 ```
