@@ -17,3 +17,8 @@ npm install
 ```bash
 npm start
 ```
+## Akun Log in
+```bash
+"email": "eve.holt@reqres.in"
+"password": "cityslicka"
+```
